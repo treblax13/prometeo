@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Prometheus-final" />
+              <option name="title_text" value="Prometheus-final-two" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1250,9 +1250,13 @@
           <links>
             <slidelink slideid="_player.6E4GfgT45DM.6Jir79eCjMn" displaytext="mision-THREE--" expand="false" type="slide" />
             <slidelink slideid="_player.6E4GfgT45DM.6jID9P0FbPg" displaytext="Escoger-iconos" expand="false" type="slide" />
+            <slidelink slideid="_player.6E4GfgT45DM.6Y9PiWBdqX6" displaytext="alternativa-ico-2" expand="false" type="slide" />
             <slidelink slideid="_player.6E4GfgT45DM.64pqwUyWpIB" displaytext="Escoger-simbolos" expand="false" type="slide" />
             <slidelink slideid="_player.6E4GfgT45DM.5nq5A3kci7W" displaytext="Vuelve a empezar" expand="false" type="slide" />
             <slidelink slideid="_player.6E4GfgT45DM.6Rv7GSq8fdS" displaytext="m03-resultados" expand="false" type="slide" />
+            <slidelink slideid="_player.6E4GfgT45DM.5grY9taLnqN" displaytext="ocultas" expand="false" type="slide" />
+            <slidelink slideid="_player.6E4GfgT45DM.6Y9xwBTAk48" displaytext="alternativa iconos" expand="false" type="slide" />
+            <slidelink slideid="_player.6E4GfgT45DM.6j9Ih3P71Rm" displaytext="alternativa-simbolos" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6r8tY6ickJ6" displaytext="mision-4-CUATRO" expand="true" type="slide">
